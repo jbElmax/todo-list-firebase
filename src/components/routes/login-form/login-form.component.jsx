@@ -53,7 +53,7 @@ const LoginForm = ()=>{
     }
     return(
         <div className="container-xl mx-auto bg-gray-400 h-screen p-6"> 
-            <div className="bg-white w-[350px] mx-auto rounded-md shadow-md px-4 py-6">
+            <div className="bg-white w-[300px] lg:w-[400px] mx-auto rounded-md shadow-md px-4 py-6">
                 <h1 className="text-3xl text-gray-700 text-center" >ToDo List</h1>
                 {/* <h2 className="text-xl text-gray-700 text-center mt-[15px]" >Enter Credentials</h2> */}
                 

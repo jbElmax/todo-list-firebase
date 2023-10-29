@@ -693,12 +693,20 @@ video {
   width: 290px;
 }
 
+.w-\[320px\] {
+  width: 320px;
+}
+
 .w-\[350px\] {
   width: 350px;
 }
 
 .w-full {
   width: 100%;
+}
+
+.w-\[300px\] {
+  width: 300px;
 }
 
 .cursor-pointer {
@@ -1069,5 +1077,9 @@ video {
 
   .lg\:w-full {
     width: 100%;
+  }
+
+  .lg\:w-\[400px\] {
+    width: 400px;
   }
 }
