@@ -47,7 +47,7 @@ const SignUpForm = ()=>{
     }
     return(
         <div className="container-xl mx-auto bg-gray-400 h-screen p-6"> 
-            <div className="bg-white w-[350px] mx-auto rounded-md shadow-md px-4 py-6">
+            <div className="bg-white w-[320px] lg:w-[500] mx-auto rounded-md shadow-md px-4 py-6">
                 <form onSubmit={onSubmitFormHandler}>
                     <h1 className="text-3xl text-gray-700 text-center" >Sign Up</h1>
 
